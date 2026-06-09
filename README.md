@@ -246,12 +246,3 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 Maintainer: Sanjay (GitHub: @Sanjay1712KSK)
 
 For questions or issues, open an issue on this repository: https://github.com/Sanjay-2437/Banking-Management-System/issues
-
----
-
-If you like, I can:
-- Populate this README with concrete commands and examples after I inspect the repository to detect language, frameworks, and exact scripts.
-- Create a `.env.example`, Docker Compose, or a LICENSE file for you.
-
-Which would you like me to do next?
-```
